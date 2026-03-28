@@ -42,8 +42,8 @@ and product trends across Indian cities.
 - Orders Trend Over Time
 
 ## Screenshots
-![Sales Performance](sales_performance.png)
-![Customer Behavior](customer_behavior.png)
+![Sales Performance](sales_performance.png.png)
+![Customer Behavior](customer_behavior.png.png)
 
 ## How to Use
 1. Download the .pbix file
